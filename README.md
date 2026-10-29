@@ -24,6 +24,9 @@ A small React app built with Vite to practice the **useState** hook. It includes
 - Controlled form inputs
 - Displaying state data in the UI
 
+## Live Output
+[Visit Counter](https://khushighediya1406-web.github.io/react-usestate-lab/)
+
 ## Getting Started
 
 1. Clone the repository
