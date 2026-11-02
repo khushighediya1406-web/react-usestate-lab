@@ -1,7 +1,3 @@
-// import { StrictMode } from 'react'
-// import './index.css'
-// <StrictMode>
-// </StrictMode>,
 import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
 
