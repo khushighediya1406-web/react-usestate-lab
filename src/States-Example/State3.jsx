@@ -15,12 +15,6 @@ function State3() {
                 <h1 style={{ textAlign: "center" }}>Wellcome to Toggle Theme!!</h1>
                 <button
                     onClick={() => {
-                        // if (!black) {
-                        //     console.log("Dark")
-                        // }
-                        // else {
-                        //     console.log("White")
-                        // }
                         !black ? console.log("Dark") : console.log("White")
                         setBlack(!black)
                     }}
@@ -29,13 +23,6 @@ function State3() {
                 </button>
                 <button
                     onClick={() => {
-                        // if (!like) {
-                        //     console.log("Liked Story!!")
-                        // }
-                        // else {
-                        //     console.log("Unlike Post!!")
-                        // }
-                        // setLike(!like)
                         like ? console.log("Unlike Post") : console.log("Like Post")
                         setLike(!like)
                     }}
